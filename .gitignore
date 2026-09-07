@@ -1,0 +1,36 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE artifacts
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*~
+*.bak
+*.tmp
+
+# Embedded Firmware Build Artifacts
+.pio/
+build/
+.espressif/
+sdkconfig.old
+*.bin
+*.elf
+*.map
+
+# EasyEDA Auto-backup & Temporary files
+*.epro.bak
+*.epro2.bak
+*_autosave.*
